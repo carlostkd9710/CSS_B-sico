@@ -1,0 +1,58 @@
+body{
+    background-color: #BEBEBE;
+    color: black;
+    padding: 2%;
+}
+header{
+    background-color: #999999;
+    font-size: xx-large;
+    font-style:italic;
+    font-weight: bolder;
+    padding: 2%;
+}
+main{
+    background-color: #CCCCCC;
+    padding: 2%;
+}
+h1{
+    background-color: #7F7F7F;
+    font-size: x-large;
+    padding: 2%;
+}
+h2{
+    background-color: #B3B3B3;
+    font-size: large;
+    padding: 2%;
+}
+p{
+    background-color: #C6C6C4;
+    align-content: center;
+    padding: 2%;
+}
+em{
+    background-color: #838383;
+}
+strong{
+    background-color: #838383;
+    padding: 2%;
+}
+ul{
+    background-color: #999999;
+    padding: 2%;
+}
+li{
+    background-color: #C6C4C4;
+    padding: 2%;
+}
+footer{
+    background-color: #999999;
+    padding: 2%;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(10, 140, 226);
+}
+a{
+    /* text-decoration: none; */
+    color: inherit;
+}
